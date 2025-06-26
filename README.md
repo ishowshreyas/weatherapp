@@ -34,7 +34,7 @@ A simple and responsive weather application that lets you check real-time weathe
 
 ---
 
-*Built with ❤️ by Shreyas Dasgupta.*
+*Built by Shreyas Dasgupta.*
 
 
 
